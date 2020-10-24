@@ -1,0 +1,8 @@
+prefix=/home/ty/Workspace/ROS/study_ws/src/stereo_camera/cmake-build-debug/devel
+
+Name: stereo_camera
+Description: Description of stereo_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

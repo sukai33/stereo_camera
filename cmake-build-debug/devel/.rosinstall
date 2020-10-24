@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ty/Workspace/ROS/study_ws/src/stereo_camera/cmake-build-debug/devel/setup.sh
